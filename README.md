@@ -14,10 +14,10 @@
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I love sports, football is my favorite, and I’m fascinated in traveling around the world  ⚽ ✈️
 
-## < You can also find me on />
+## You can also find me on 🕵️
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lucas-martins-8891bb212/) 
 
-## < Language and Tools />
+## Language and Tools 🧰
 <p align="flex-start">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="90" title="hover text">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="90" title="hover text">
