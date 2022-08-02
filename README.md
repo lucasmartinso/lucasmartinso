@@ -2,7 +2,9 @@
 
 # Welcome to my GitHub page, I hope you enjoy it! 😁
 
-## Some facts about me 💬
+## Some facts about me 💬 
+
+<img align="right" alt="gif" src="https://github.com/lucasmartinso/lucasmartinso/blob/main/Bm7L.gif" width="350" height="350" />
 
 - 🤓 I’m studying mechanical engineering at UFJF and I have already participated in extension projects as a Junior enterprise, assuming management positions
 
@@ -34,5 +36,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmartinso&show_icons=true&theme=radical)  
 
 </div> 
-
-![](https://github.com/lucasmartinso/lucasmartinso/blob/main/Bm7L.gif)
