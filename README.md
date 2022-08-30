@@ -27,7 +27,8 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-226029.png" width="90" title="hover text">
   <img src="https://cpl.thalesgroup.com/sites/default/files/content/paragraphs/intro/2020-03/postgresql-logo.png" width="90" title="hover text">
   <img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-4.png" width="90" title="hover text">
-  <img src="https://images.vexels.com/media/users/3/166179/isolated/lists/b83d6b47a9502dfaf535087627a8bf96-icone-da-linguagem-de-programacao-c.png" width="80" title="hover text"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="90" title="hover text">
+  <img src="https://images.vexels.com/media/users/3/166179/isolated/lists/b83d6b47a9502dfaf535087627a8bf96-icone-da-linguagem-de-programacao-c.png" width="80" title="hover text">
 </p> 
 
 <div align="center"> 
