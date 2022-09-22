@@ -36,4 +36,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmartinso&langs_count=8&theme=radical&emsp)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmartinso&show_icons=true&theme=radical)  
 
-</div> 
+</div>  
+
+[![wakatime](https://wakatime.com/badge/user/05fd8950-25a0-4e76-9b4d-9998fc4f063f.svg)](https://wakatime.com/@05fd8950-25a0-4e76-9b4d-9998fc4f063f)
