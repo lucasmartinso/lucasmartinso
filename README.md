@@ -12,7 +12,7 @@
 
 - 🤓 I’m studying mechanical engineering at UFJF and I have already participated in extension projects as a Junior enterprise, assuming management and leadership positions
 
-- ⚙️ Tools I have alredy worked with: HTML, CSS, JavaScript, TypeScript, JSX, React, Node.js, MongoDB, Postgress(SQL), Redis and Docker
+- ⚙️ Tools I have alredy worked with: HTML, CSS, Styled-Components, JavaScript, TypeScript, JSX, React, Node.js, MongoDB, Postgress(SQL), Redis, GitHub Actions and Docker
 
 - 📫 How to reach me: send me an email on lucasmartinsoliveiraa@gmail.com or send me a message on Linkedin [ lucasmartinso  ]( https://www.linkedin.com/in/lucas-martins-8891bb212/  ) 
 
@@ -37,7 +37,10 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" style="margin-bottom: 4px;" height="30px"> 
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" style="margin-bottom: 4px;" height="30px"> 
-  
+  <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" style="margin-bottom: 4px;" height="30px"> 
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" style="margin-bottom: 4px;" height="30px"> 
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px"> 
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" style="margin-bottom: 4px;" height="30px"> 
 </p> 
 
 <div align="center"> 
