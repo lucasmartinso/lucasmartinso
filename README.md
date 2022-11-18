@@ -14,7 +14,7 @@
 
 - ⚙️ Tools I have alredy worked with: HTML, CSS, Styled-Components, JavaScript, TypeScript, JSX, React, Node.js, MongoDB, Postgress(SQL), Redis, GitHub Actions, Express.Js and Docker
 
-- 📫 How to reach me: send me an email on lucasmartinsoliveiraa@gmail.com or send me a message on Linkedin [ lucasmartinso  ]( https://www.linkedin.com/in/lucas-martins-8891bb212/  ) 
+- 📫 How to reach me: send me an email on lucasmartinsoliveiraa@gmail.com or send me a message on Linkedin [ lucasmartinso  ]( https://www.linkedin.com/in/lucas-martins-8891bb)
 
 - 😄 Pronouns: he/him 
 
