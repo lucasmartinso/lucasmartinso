@@ -10,9 +10,10 @@
 
 - 💻 I’m currently a Front-end, Back-end, Full-Stack developer and also works with Databases modeling
 
-- 🤓 I’m studying mechanical engineering at UFJF and I have already participated in extension projects as a Junior enterprise, assuming management and leadership positions
+- 🤓 I’m Computer Science at UFJF and I have already participated in extension projects as a Junior enterprise, assuming management and leadership positions and [Scientific Initiation, carrying out research on
+computational modeling in cancer treatment](https://github.com/lucasmartinso/IC)
 
-- ⚙️ Tools I have alredy worked with: HTML, CSS, Styled-Components, JavaScript, TypeScript, JSX, React, Node.js, MongoDB, Postgress(SQL), Redis, GitHub Actions, Express.Js and Docker
+- ⚙️ Tools I have alredy worked with: HTML, CSS, Styled-Components, JavaScript, TypeScript, Phyton, C, C++, OpenMP, JSX, React, Node.js, MongoDB, Postgress(SQL), Redis, GitHub Actions, Express.Js and Docker
 
 - 📫 How to reach me: send me an email on lucasmartinsoliveiraa@gmail.com or send me a message on Linkedin [ lucasmartinso  ]( https://www.linkedin.com/in/lucas-martins-8891bb)
 
@@ -41,7 +42,10 @@
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" style="margin-bottom: 4px;" height="30px"> 
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px"> 
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" style="margin-bottom: 4px;" height="30px"> 
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px"> 
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="margin-bottom: 4px;" height="30px"> 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px"> 
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p> 
 
 <div align="center"> 
