@@ -10,7 +10,7 @@
 
 - 💻 I’m currently a Front-end, Back-end, Full-Stack developer and also works with Databases modeling
 
-- 🤓 I’m Computer Science at UFJF and I have already participated in extension projects as a Junior enterprise, assuming management and leadership positions and [Scientific Initiation, carrying out research on
+- 🤓 I’m studying Computer Science at UFJF and I have already participated in extension projects as a Junior enterprise, assuming management and leadership positions and [Scientific Initiation, carrying out research on
 computational modeling in cancer treatment](https://github.com/lucasmartinso/IC)
 
 - ⚙️ Tools I have alredy worked with: HTML, CSS, Styled-Components, JavaScript, TypeScript, Phyton, C, C++, OpenMP, JSX, React, Node.js, MongoDB, Postgress(SQL), Redis, GitHub Actions, Express.Js and Docker
