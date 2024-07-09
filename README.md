@@ -17,8 +17,6 @@ computational modeling in cancer treatment](https://github.com/lucasmartinso/IC)
 
 - 📫 How to reach me: send me an email on lucasmartinsoliveiraa@gmail.com or send me a message on Linkedin [ lucasmartinso  ]( https://www.linkedin.com/in/lucas-martins-8891bb)
 
-- 😄 Pronouns: he/him 
-
 - ⚡ Fun fact: I love sports, football is my favorite, and I’m fascinated in traveling around the world  ⚽ ✈️
 
 ## You can also find me on 🕵️
