@@ -3,6 +3,7 @@
 # Welcome to my GitHub page, I hope you enjoy it! 😁 
 
 [![wakatime](https://wakatime.com/badge/user/05fd8950-25a0-4e76-9b4d-9998fc4f063f.svg)](https://wakatime.com/@05fd8950-25a0-4e76-9b4d-9998fc4f063f)
+<img src="https://komarev.com/ghpvc/?username=lucasmartinso&label=Profile%20views&color=0e75b6&style=flat" alt="lucasmartinso" />
 
 ## Some facts about me 💬 
 
