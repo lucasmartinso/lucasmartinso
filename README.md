@@ -9,19 +9,17 @@
 
 <img align="right" alt="gif" src="https://github.com/lucasmartinso/lucasmartinso/blob/main/Bm7L.gif" width="350" height="350" />
 
-- 💻 I’m currently a Front-end, Back-end, Full-Stack developer and also works with Databases modeling
+- 💻 I’m currently Web Full-Stack developer.
 
 - 🤓 I’m studying Computer Science at UFJF and I have already participated in extension projects as a Junior enterprise, assuming management and leadership positions and [Scientific Initiation, carrying out research on
 computational modeling in cancer treatment](https://github.com/lucasmartinso/IC)
 
-- ⚙️ Tools I have alredy worked with: HTML, CSS, Styled-Components, JavaScript, TypeScript, Phyton, C, C++, OpenMP, JSX, React, Node.js, MongoDB, Postgress(SQL), Redis, GitHub Actions, Express.Js and Docker
-
-- 📫 How to reach me: send me an email on lucasmartinsoliveiraa@gmail.com or send me a message on Linkedin [ lucasmartinso  ]( https://www.linkedin.com/in/lucas-martins-8891bb)
+- 📫 How to reach me: send me an email on lucasmartinsoliveiraa@gmail.com or send me a message on Linkedin [ lucasmartinso  ]( https://www.linkedin.com/in/lucasmartinso)
 
 - ⚡ Fun fact: I love sports, football is my favorite, and I’m fascinated in traveling around the world  ⚽ ✈️
 
 ## You can also find me on 🕵️
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >](https://www.linkedin.com/in/lucas-martins-8891bb212/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >](mailto:lucasmartinsoliveiraa@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >](https://www.linkedin.com/in/lucasmartinso/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >](mailto:lucasmartinsoliveiraa@gmail.com)
 
 ## Language and Tools 🧰
 <p align="flex-start">
